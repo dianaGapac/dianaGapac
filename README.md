@@ -22,13 +22,4 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## 📫 How to Reach Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-username)
-- Personal Website: [Your Website](https://yourwebsite.com)
