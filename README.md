@@ -2,14 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social) ![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)
 
-## About Me
-
-- 🌱 I’m currently learning [Your Learning Focus]
-- 👯 I’m looking to collaborate on [Projects or Areas of Interest]
-- 🤔 I’m looking for help with [Your Needs]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🛠️ Technologies & Tools
 
