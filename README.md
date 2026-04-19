@@ -1,7 +1,5 @@
 # Hi there, I'm Diana Gapac👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social) ![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)
-
 
 ## 🛠️ Technologies & Tools
 
